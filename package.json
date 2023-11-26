@@ -10,7 +10,7 @@
     "test": "vitest"
   },
   "dependencies": {
-    "@clerk/nextjs": "^4.27.0",
+    "@clerk/nextjs": "^4.27.2",
     "@prisma/client": "^5.5.2",
     "@types/node": "20.9.0",
     "@types/react": "18.2.37",
